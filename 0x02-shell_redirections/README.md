@@ -1,1 +1,1 @@
-count that word
+hide the word
